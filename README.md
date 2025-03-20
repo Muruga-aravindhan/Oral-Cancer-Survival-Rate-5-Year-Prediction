@@ -5,7 +5,7 @@
 This project aims to predict the **5-Year Survival Rate (%)** of patients based on various medical factors. The dataset includes tumor size, tobacco use, and other critical attributes affecting survival rates.
 
 ## 📂 Dataset Details
-- **File Name:** oral_cancer_prediction_dataset.csv.csv 
+- **File Name:** oral_cancer_prediction_dataset.csv (I have just taken this file from the Kaggle website)
 - **Contains:** Patient medical history, tumor size, tobacco use, and survival rate
 - **Usage:** Used to train a regression model for predicting survival rates
 
